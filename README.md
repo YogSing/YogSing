@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working in Azure
 - 🌱 I’m currently learning Networking & Security.
-- ☁ Skills- **Terraform, Azure, CI/CD, ARM, Python**
+- ☁ Skills **Terraform, Azure, CI/CD, ARM, Python**
+- 🤘Hobbies: Drawing🖌, Poetry, Gym 🏋
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
