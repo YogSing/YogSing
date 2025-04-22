@@ -1,6 +1,6 @@
 <h1 align="center"> Hii! 😄, I'm Yogdeep Singh! </h1>     
 
-<h3 align="center"> Professionally Cloud Engineer ☁⚙   </h3>
+<h3 align="center"> Professionally a Cloud Engineer ☁⚙   </h3>
 
 - 🔭 I’m currently working in Azure
 - 🌱 I’m currently learning Networking & Security.
